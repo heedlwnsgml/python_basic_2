@@ -11,4 +11,5 @@ beautifulsoup4
 streamlit
 html5lib
 requests
+selenium
     
